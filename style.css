@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css?family=Delius Unicase');
+@import url('https://fonts.googleapis.com/css?family=DM Sans');
+#street{
+    font-family:Delius Unicase;
+    font-size: 8vh;
+   font-weight: 700;
+    line-height: 10.5vh;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top:10vh;
+    
+    
+}
+#upper{
+
+width:100vw;
+height:10vh;
+background-color: #6F6AF7;
+padding:3vh;
+position:fixed;
+top:0;
+}
+#inbetween{
+font-family: DM Sans;
+font-size: 5vh;
+font-weight: 400;
+line-height: 4vh;
+text-align: left;
+color: #FFFFFF;
+}
+
+#selection{
+   background-color:#6F6AF7;
+   border:none;
+   color:#FFFFFF;
+}
+#ok{
+    height: 6vh;
+    width:14vw;
+    border-radius:4vh;
+}
+#first{
+    margin-top:20vh;
+    margin-bottom:10vh;
+    margin-left:2.5vw;
+    margin-right:5vw;
+    height:40%;
+    width:100%;
+}
+#second{
+    display:flex;
+    flex-direction: row;
+}
+#second-first{
+    
+    margin-right:2.5vw;
+    
+    height:40vh;
+    width:30vw;
+}
+#second-second{
+    height:40vh;
+    width:65vw;
+    margin-top:2.5vh;
+    margin-left:2.5vw;
+    margin-right:5vw;
+    margin-bottom:5vh;
+    background-color: #E5D8FF;
+    border:1vh,1vh,1vh,1vh;
+    border-radius:2.5vh;
+padding-left:5vw;
+padding-right:5vw;
+padding-top:5vh;
+padding-bottom:1.5vh;
+}
+#sticky{
+    position: sticky;
+    position:-webkit-sticky;
+    top:10px;
+    float:right;
+}
+#third{
+    display:flex;
+    margin-top:5vh;
+    margin-bottom:5vh;
+    margin-left:2.5vw;
+    margin-right:2.5vw;
+    color:#FFFFFF;
+    
+}
+#fourth{
+    border-radius: 2vh;
+    background: #929DFF;
+    margin-top:5vh;
+    margin-bottom:10vh;
+    margin-left:5vw;
+    margin-right:5vw;
+    padding-left:1.5vw;
+    padding-right:1.5vw;
+    padding-top:2.5vh;
+    padding-bottom:2.5vh;
+    height: 8vh;
+    width:45vw ;
+    text-align: left;
+
+}
+#fifth{
+    border-radius: 2vh;
+    background: #734CF2;
+    margin-top:5vh;
+    margin-bottom:10vh;
+    margin-left:5vw;
+    margin-right:5vw;
+    padding-left:1.5vw;
+    padding-right:1.5vw;
+    padding-top:2.5vh;
+    padding-bottom:2.5vh;
+    height: 8vh;
+    width:45vw ;
+    text-align: left;
+}
+#sixth{
+    border-radius: 2vh;
+    background: #D288FF;
+   margin-top:5vh;
+    margin-bottom:10vh;
+    margin-left:5vw;
+    margin-right:5vw;
+    padding-left:1.5vw;
+    padding-right:1.5vw;
+    padding-top:2.5vh;
+    padding-bottom:2.5vh;
+    height: 8vh;
+    width:45vw ;
+    text-align: left;
+}
+#seventh{
+    border-radius: 2vh;
+    background: #000000;
+   margin-top:5vh;
+    margin-bottom:10vh;
+    margin-left:5vw;
+    margin-right:1.5vw;
+    padding-left:1.5vw;
+    padding-right:1.5vw;
+    padding-top:2.5vh;
+    padding-bottom:2.5vh;
+    height: 8vh;
+    width:45vw ;
+    text-align: left;
+}
+#fixed{
+    position:fixed;
+   
+   /* height: 8vh;
+    width:45vw ;*/
+    top:80vh;
+    left:90vw;
+   /* float:right;*/
+    
+    
+}
+#eighth{
+    height:80vh;
+    width:85vw;
+    background-color: #483EFF;
+    margin-top:10vh;
+    margin-bottom:5vh;
+    margin-left:5vw;
+    margin-right: 20vh;
+    display:flex;
+    border-radius: 2.5vh;
+
+}
+#ninth{
+    height:60vh;
+    width:30vw;
+    font-family:D M sans;
+    display:flex;
+    flex-direction: column;
+    padding:10vh;
+    justify-content: center;
+    
+}
+#tenth{
+color:#000000;
+border-left:2px;
+border-right:2px;
+border-top:2px;
+border-bottom:2px;
+background-color: #BCE0F6;
+height: 10vh;
+text-align: center;
+border-radius: 2.5vh;
+margin-top:2.5vh;
+margin-bottom:5vh;
+margin-left:2.5vw;
+margin-right:2.5vw;
+border-style:solid;
+
+
+
+}
+#eleventh{
+color:#FFFFFF;
+border-left:2px;
+border-right:2px;
+border-top:2px;
+border-bottom:2px;
+border-color:#FFFFFF;
+height: 10vh;
+text-align: center;
+border-radius: 2.5vh;
+margin-top:2.5vh;
+margin-bottom:5vh;
+margin-left:2.5vw;
+margin-right:2.5vw;
+border-style:solid;
+
+
+}
+#twelveth{
+color:#FFFFFF;
+border-left:2px;
+border-right:2px;
+border-top:2px;
+border-bottom:2px;
+
+border-color:#FFFFFF;
+height:10vh;
+text-align: center;
+border-radius: 2.5vh;
+margin-top:2.5vh;
+margin-bottom:5vh;
+margin-left:2.5vw;
+margin-right:2.5vw;
+border-style:solid;
+
+
+}
+#thirteenth{
+    height:60vh;
+    width:70vw;
+    background-color: #FFFFFF;
+    margin-top:5vh;
+    margin-bottom:10vh;
+    margin-left:5vw;
+    margin-right:5vw;
+    border-radius:2.5vh;
+    padding:4vh;
+    line-height: 5vh;
+
+}
+#next{
+    float:inline-end;
+    vertical-align: bottom;
+    color:#FFFFFF;
+    background:#000000;
+
+}
+
+
